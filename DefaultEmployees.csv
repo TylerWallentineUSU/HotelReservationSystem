@@ -1,0 +1,13 @@
+EmployeeID,Username,Salary,Floor_Served,Position,Address,DOB,Status
+101,AlexisWilliams,48000,1,Butler,1500 S 200 W Sandy UT ,3/4/1986,Active
+102,JessicaTorres,44000,,Host,902 Pioneer St Salt Lake City UT,9/9/1984,Active
+103,JacobFlores,41000,,Bell-Service,100 Honeycomb ave West Valley City UT,8/31/1985,Active
+104,EmilyGarcia,43000,1,Housekeeping,51 Temple Blvd Draper UT,1/5/1990,Active
+105,OliviaGreen,54000,,Chef,9800 W 300 S Midvale UT,12/31/2000,Active
+106,JohnAllen,52000,,Maintenance,1101 John Stockton Way Salt Lake City UT,12/26/1993,Active
+107,EmilyThompson,53000,2,Butler,1886 Emigration Way Salt Lake City UT,6/27/1985,Active
+108,ElizabethWright,41000,,Bell-Service,760 Zion Blvd Heber City UT,11/2/1986,Active
+109,VictoriaScott,42000,2,Housekeeping,85 Utah Ln Herriman UT,10/14/1979,Active
+110,AndrewWilson,40000,3,Housekeeping,1 Center St Provo UT,4/3/1999,On Leave
+111,DanielWilliams,64000,,Manager,9208 Swiss Ave Pleasant Grove UT,1/11/1975,Active
+112,ChristopherSmith,57000,3,Butler,501 Karl Malone Dr Salt Lake City UT,1/15/1973,Active
